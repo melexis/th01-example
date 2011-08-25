@@ -30,4 +30,11 @@
             </plugin>
         </plugins>
     </build>
+
+    <repositories>
+      <repository>
+        <id>cemerick-snapshots</id>
+        <url>https://raw.github.com/melexis/maven/master/snapshots/</url>
+      </repository>
+    </repositories>
 </project>
