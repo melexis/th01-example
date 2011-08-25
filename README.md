@@ -10,6 +10,6 @@ First compile the source
 
 Now you can execute the the example
 
-    sh th01example.sh <<th01 map>>
+    sh th01example.sh src/main/resources/example.th01
 
 
