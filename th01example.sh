@@ -6,6 +6,4 @@ CLASSPATH="$CLASSPATH:$HOME/.m2/repository/commons-lang/commons-lang/2.5/commons
 
 export CLASSPATH
 
-echo $CLASSPATH
-
 java com.melexis.Th01Example $@
